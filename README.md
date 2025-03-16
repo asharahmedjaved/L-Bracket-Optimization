@@ -1,4 +1,4 @@
-# L Bracket Optimization
+# L Bracket Optimization (A work in progress)
 
 ## Project Overview
 This project focuses on optimizing the **L Bracket** using computational design techniques and genetic algorithms. The goal is to enhance the structural integrity while minimizing material usage and weight.
